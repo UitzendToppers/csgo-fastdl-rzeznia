@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "overlays/achievements/head"
+
+	$translucent 1
+}

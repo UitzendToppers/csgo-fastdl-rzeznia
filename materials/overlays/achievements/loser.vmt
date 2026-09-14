@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "overlays/achievements/loser"
+
+	$translucent 1
+}
