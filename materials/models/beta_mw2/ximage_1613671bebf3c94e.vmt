@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	$basetexture				"models\beta_mw2\watch_glass"
+	//$bumpmap					"models\beta_mw2\watch_n"
+
+	
+		$alphatest		1
+
+	$alphatestreference	.5
+
+	$allowalphatocoverage	1
+}

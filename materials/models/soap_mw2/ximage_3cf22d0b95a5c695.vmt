@@ -1,0 +1,13 @@
+"VertexLitGeneric" 
+{
+	$basetexture				"models\soap_mw2\minie"
+	$bumpmap					"models\soap_mw2\_n"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongFresnelRanges" "[.05 .15 1]"
+	$phongexponent 100
+$translucent 1
+"$nodecal" 1
+}

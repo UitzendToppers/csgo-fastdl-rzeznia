@@ -1,0 +1,20 @@
+"VertexLitGeneric" 
+{
+	$basetexture				"models\soap_mw2\3c"
+	$bumpmap					"models\soap_mw2\3c_n"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongFresnelRanges" "[.05 .15 1]"
+	$phongexponent 100
+	"$rimlight" "1"
+	"$rimlightexponent" "150"
+	"$rimlightboost" "1"
+			$alphatest		1
+
+	$alphatestreference	.1
+
+	$allowalphatocoverage	1
+"$nodecal" 1
+}

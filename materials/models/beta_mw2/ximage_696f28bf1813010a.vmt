@@ -1,0 +1,14 @@
+vertexlitgeneric
+{
+	$basetexture				"black"
+	//$bumpmap					"models\beta_mw2\head_mask_n"
+	"$phongexponenttexture"     "models\beta_mw2\glass_exp"
+	"$phong"                    1
+	"$phongboost"               .3
+	"$phongalbedoboost"         1
+	"$phongtint"                "[1 1 1]"
+	"$phongfresnelranges"       "[1 1 3]"
+    "$phongexponentfactor" "90"
+	"$model"                  "1"
+$color2 "[-5 -5 -5]"
+}
